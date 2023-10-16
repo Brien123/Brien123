@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/Brien123/Brien123/546774bdd9b883a8783ddf18fcd91d8aa3741d6b/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Zeh Brien</h1>
 <h3 align="center">A passionate Data scientist/analyst from Cameroon</h3>
-<img align="right" alt='coding' src="[https://i.gifer.com/OyGx.mp4](https://github.com/Brien123/Brien123/blob/main/giphy.gif?raw=true)" alt="coding" width="400" />
+<img align="right" alt='coding' src="https://raw.githubusercontent.com/Brien123/Brien123/main/giphy.gif" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brien123&label=Profile%20views&color=0e75b6&style=flat" alt="brien123" /> </p>
 
