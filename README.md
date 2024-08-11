@@ -1,17 +1,14 @@
 ![Header](https://raw.githubusercontent.com/Brien123/Brien123/546774bdd9b883a8783ddf18fcd91d8aa3741d6b/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Zeh Brien</h1>
-<h3 align="center">A passionate Data scientist/analyst from Cameroon</h3>
+<h3 align="center">A passionate Data scientist and Backend Engineer from Cameroon</h3>
 <img align="right" alt='coding' src="https://raw.githubusercontent.com/Brien123/Brien123/main/giphy.gif" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brien123&label=Profile%20views&color=0e75b6&style=flat" alt="brien123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zehbrien" target="blank"><img src="https://img.shields.io/twitter/follow/zehbrien?logo=twitter&style=for-the-badge" alt="zehbrien" /></a> </p>
 
-- 🔭 I’m currently working on **Cancer Detection**
 
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **Python, Machine Learning, and SQL**
+- 💬 Ask me about **Python, Machine Learning, Django and SQL**
 
 - 📫 How to reach me **zehbrien@gmail.com**
 
