@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Brien123/Brien123/546774bdd9b883a8783ddf18fcd91d8aa3741d6b/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Zeh Brien</h1>
 <h3 align="center">A passionate Data scientist and Backend Engineer from Cameroon</h3>
 <img align="right" alt='coding' src="https://raw.githubusercontent.com/Brien123/Brien123/main/giphy.gif" alt="coding" width="400" />
